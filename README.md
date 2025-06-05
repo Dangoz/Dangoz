@@ -1,6 +1,6 @@
 <!-- WALLET-LINKING-BEGIN
 {
-  "lastUpdated": "2025-06-02T07:02:37.435Z",
+  "lastUpdated": "2025-06-05T06:56:32.166Z",
   "wallets": [
     {
       "chain": "ethereum",
@@ -8,7 +8,8 @@
     },
     {
       "chain": "solana",
-      "address": "111111111111111111111111111111119"
+      "address": "Ae9izGuyQd2c4wSyxbknjgQBLkW23bdPtkFv5Yzs57ke",
+      "snsName": "dango.sol"
     }
   ]
 }
