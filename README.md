@@ -1,10 +1,10 @@
 <!-- WALLET-LINKING-BEGIN
 {
-  "lastUpdated": "2025-06-05T08:02:12.189Z",
+  "lastUpdated": "2025-06-08T08:55:56.303Z",
   "wallets": [
     {
       "chain": "ethereum",
-      "address": "0x1111111111111111111111111111111111111111"
+      "address": "0x1111111111111111111111111111111111111123"
     },
     {
       "chain": "solana",
