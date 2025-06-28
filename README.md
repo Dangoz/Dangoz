@@ -14,4 +14,18 @@
 }
 WALLET-LINKING-END -->
 
+<video controls preload="metadata" width="640" height="360"
+       poster="poster.jpg">
+  <source src="https://emerald-patient-puffin-220.mypinata.cloud/ipfs/bafybeib54nkvywr65hpxj3nu5ncqla2oyyjzmwuckenhmbykbri34ogqei"
+          type="video/mp4">
+  <p>
+    Your browser can’t play the video.  
+    <a href="https://emerald-patient-puffin-220.mypinata.cloud/ipfs/bafybeib54nkvywr65hpxj3nu5ncqla2oyyjzmwuckenhmbykbri34ogqei">
+      Download it instead.
+    </a>
+  </p>
+</video>
+
+
+
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/Dangoz)
